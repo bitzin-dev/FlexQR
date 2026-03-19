@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://flexqr.exe.dev"><strong>Live Platform</strong></a>
+    <a href="https://flexqr.exe.xyz"><strong>Live Platform</strong></a>
     |
     <a href="./backend/README.md"><strong>Backend Docs</strong></a>
     |
@@ -37,7 +37,7 @@ This project provides a complete platform where users can:
 
 The complete live version is available at:
 
-- [flexqr.exe.dev](https://flexqr.exe.dev)
+- [flexqr.exe.dev](https://flexqr.exe.xyz)
 
 ## Why FlexQR Exists
 
