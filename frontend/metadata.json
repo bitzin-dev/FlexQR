@@ -1,0 +1,5 @@
+{
+  "name": "FlexQR Dashboard",
+  "description": "A platform for managing flexible dynamic QR codes with bilingual support.",
+  "requestFramePermissions": []
+}
