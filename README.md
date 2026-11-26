@@ -194,3 +194,21 @@ If you want to get in touch, collaborate, or ask about the project:
 ## License
 
 This project is presented as an open-source QR code management platform. Add your preferred license file to the repository root if you want to publish it formally under MIT, Apache-2.0, or another open-source license.
+
+
+---
+
+### 🛠️ Environment Configuration & Deployment
+
+| Variable | Description | Default |
+| :--- | :--- | :--- |
+| `PORT` | Application server port | `3000` |
+| `NODE_ENV` | Runtime environment (`production` / `development`) | `development` |
+| `DATABASE_URL` | Database connection string | Required |
+| `APP_URL` | Base URL for dynamic QR resolution | `https://flexqr.exe.xyz` |
+
+### 🚀 Quick Start with Docker
+```bash
+# Build and run with Docker Compose
+docker compose up -d --build
+```
